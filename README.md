@@ -1,16 +1,31 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Amar</h3>
 
-<!--
-**Amar07Singh/Amar07Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://leetcode.com/amarsingh589/">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/amar-singh-cs/">Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+ <!-- About section -->
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 As a computer science engineering student specializing in AI and ML, I'm deeply passionate about leveraging technology to solve real-world problems and enhance user experiences. My journey in complete web development has equipped me with versatile skills to craft dynamic and engaging digital experiences. 
+
+🖥️ Additionally, my expertise extends to SEO and topics like search engine marketing, backed by certifications in these domains. 🔍 Looking ahead, I'm eager to delve into the realms of machine learning and deep learning, fueled by a curiosity to explore innovative solutions and algorithms. 🤖 When I'm not immersed in coding, you'll find me indulging in my love for reading or immersing myself in artsy pursuits. 
+
+I'm dedicated to contributing positively to open and inclusive developer communities while advocating for accessibility across the web. ✨
+<!-- code gif-->
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pixilart.com%2Fart%2Fcoding-dogo-sr2712ab0b35ecd&psig=AOvVaw3GYQWO-jUTWJGc3Z9CaJVw&ust=1708853665834000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj6i4mP1sOEAxVDamwGHasPA7YQjRx6BAgAEBQ" width="500" height="320" />
+<br>
+<br>
+- 😄 My Pronouns: He/Him  
+
+- 💬 Ask me about: Web Devlopment, Python libraries, C++, Content Creation.
+
+- 📫 How to reach me: [@AmarSingh](https://www.linkedin.com/in/amar-singh-cs/)
+
+- ⚡ Fun fact: I enjoy reading books and I am the <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcr7-cristiano-ronaldo-gif-cr7-cristiano-ronaldo-cristiano-ronaldo-manchester-united-discover-share--649222102590215120%2F&psig=AOvVaw1DBTyWqOYvjn5VB0QS4-lm&ust=1708853959694000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjLl6DXw4QDFQAAAAAdAAAAABAO" target="_blank">Ronaldo</a> of my neighbourhood ground XD.
+
+<!-- About section: END -->
+
+<!-- THE END -->
