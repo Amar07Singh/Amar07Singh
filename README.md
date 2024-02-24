@@ -16,7 +16,7 @@
 I'm dedicated to contributing positively to open and inclusive developer communities while advocating for accessibility across the web. ✨
 <br>
 
-<img src="/image." alt="image" align="right" style="width:100" />
+<img src="![Screenshot_24-2-2024_155318_www google com](https://github.com/Amar07Singh/Amar07Singh/assets/142129637/4aa5d186-b690-41fe-a29e-53207bc93d32)" alt="image" align="right" style="width:100" />
 
 
 - 😄 My Pronouns: He/Him  
