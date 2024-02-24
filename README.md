@@ -14,10 +14,11 @@
 🖥️ Additionally, my expertise extends to SEO and topics like search engine marketing, backed by certifications in these domains. 🔍 Looking ahead, I'm eager to delve into the realms of machine learning and deep learning, fueled by a curiosity to explore innovative solutions and algorithms. 🤖 When I'm not immersed in coding, you'll find me indulging in my love for reading or immersing myself in artsy pursuits. 
 
 I'm dedicated to contributing positively to open and inclusive developer communities while advocating for accessibility across the web. ✨
-<!-- code gif-->
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pixilart.com%2Fart%2Fcoding-dogo-sr2712ab0b35ecd&psig=AOvVaw3GYQWO-jUTWJGc3Z9CaJVw&ust=1708853665834000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj6i4mP1sOEAxVDamwGHasPA7YQjRx6BAgAEBQ" width="500" height="320" />
 <br>
-<br>
+
+<img src="/image." alt="image" align="right" style="width:100" />
+
+
 - 😄 My Pronouns: He/Him  
 
 - 💬 Ask me about: Web Devlopment, Python libraries, C++, Content Creation.
