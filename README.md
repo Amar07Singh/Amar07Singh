@@ -15,9 +15,8 @@
 
 I'm dedicated to contributing positively to open and inclusive developer communities while advocating for accessibility across the web. ✨
 <br>
+<br>
 
-
-- 😄 My Pronouns: He/Him  
 
 - 💬 Ask me about: Web Devlopment, Python libraries, C++, Content Creation.
 
