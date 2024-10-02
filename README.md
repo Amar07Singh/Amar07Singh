@@ -22,7 +22,7 @@ I'm dedicated to contributing positively to open and inclusive developer communi
 
 - 📫 How to reach me: [@AmarSingh](https://www.linkedin.com/in/amar-singh-cs/)
 
-- ⚡ Fun fact: I enjoy reading books and I am the <a href="https://media.giphy.com/media/3oD3YJDA4I6J4PmvpS/giphy.gif" target="_blank">Ronaldo</a> of my neighbourhood ground XD.
+- ⚡ Fun fact: I enjoy reading books and I am the <a href="https://www.gifcen.com/wp-content/uploads/2022/11/cristiano-ronaldo-gif-7.gif" target="_blank">Ronaldo</a> of my neighbourhood ground XD.
 
 <!-- About section: END -->
 
