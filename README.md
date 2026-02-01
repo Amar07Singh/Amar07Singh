@@ -67,7 +67,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 🎯 **Goal:** Bridge the gap between ML systems and production-grade backend engineering to build infrastructure that scales to millions of users.
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
 ![](https://raw.githubusercontent.com/Amar07Singh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Amar07Singh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -75,7 +74,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 ![Stats Overview](https://raw.githubusercontent.com/Amar07Singh/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Amar07Singh/github-stats-transparent/output/generated/languages.svg)
 
-</a>
 <br>
 
 ### 🔨 Languages and Tools:
