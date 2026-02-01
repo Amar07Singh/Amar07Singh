@@ -41,7 +41,7 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
       <strong>Designing <b>async FastAPI backend</b> for multi-format document processing with LLM entity extraction</strong></p>
     </td>
     <td>
-      <img src="project1.png" alt="Profile Image" width="350"/>
+      <img src="./project1.jpeg" alt="Profile Image" width="350"/>
     </td>
   </tr>
 </table>
