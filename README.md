@@ -59,7 +59,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
 
 ## 🌱 Currently Learning 
 
@@ -85,4 +84,3 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 ![](https://raw.githubusercontent.com/Amar07Singh/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-<br>
