@@ -12,6 +12,7 @@
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
+<img src="./banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 ## 🚀 About Me 
 ## 👨‍💻 From Edge AI to Backend Systems — Building What Scales
