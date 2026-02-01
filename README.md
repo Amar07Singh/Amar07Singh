@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="./banner.png" alt="Software Development Engineer | Edge AI &  ML Systems Engineer | Backend Engineer | Cloud Infrastructure">
 
 <div align="center">
 <b>Software Development Engineer | Edge AI &  ML Systems Engineer | Backend Engineer | Cloud Infrastructure </b>
@@ -16,7 +16,7 @@ While I love working with cutting-edge AI, **my real passion is the infrastructu
 
 **My journey so far:**
 
-I started building systems that matter in environments where there's no room for error. At **Dtyle.AI**, I didn't just train models—I engineered **real-time edge AI pipelines** that fused vision, audio, and sensor data for maritime safety. The challenge? Making it work on edge devices with <300ms latency requirements. That's where I fell in love with **system design, optimization, and performance engineering**.
+I started building systems that matter in environments where there's no room for error. At **Dtyle.AI**, I didn't just train models—I engineered **real-time edge AI pipelines** that fused vision, audio, and sensor data for maritime safety. The challenge? Making it work on edge devices with <300ms latency requirements. That's where I actually understood with **system design, optimization, and performance engineering**.
 
 At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritten samples, reducing noise by 45%. But the real win? Designing the **infrastructure** that let LLMs scale across education boards without breaking.
 
@@ -28,14 +28,24 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 
 **Why SDE roles?** Because the most exciting problems in tech today—whether it's Copilot, M365, or Google Cloud—aren't just about algorithms. They're about building **reliable, scalable infrastructure** that serves hundreds of millions of users. That's the work I want to do.
 
-🎯 **Looking for:** Backend SDE, Infrastructure Engineer, or ML Systems roles where engineering excellence meets real-world impact.
+🎯 **Looking for:** SDE, Backend Engineer, or ML Systems roles where engineering excellence meets real-world impact.
       
 ## 🔭 What I'm Currently Working On 
 
 🏥 **MediLockr** — Patient-owned healthcare data exchange
-- Building **zero-knowledge E2EE system** with client-side encryption and revocable permissions
-- Implementing **hybrid search** (BM25 + vector embeddings) with sub-300ms retrieval using Elasticsearch
-- Designing **async FastAPI backend** for multi-format document processing with LLM entity extraction
+<table>
+  <tr>
+    <td>
+      <p><strong>Building <b>zero-knowledge E2EE system</b> with client-side encryption and revocable permissions</strong><br>
+      <strong>Implementing <b>hybrid search</b> (BM25 + vector embeddings) with sub-300ms retrieval using Elasticsearch</strong><br>
+      <strong>Designing <b>async FastAPI backend</b> for multi-format document processing with LLM entity extraction</strong></p>
+    </td>
+    <td>
+      <img src="project1.png" alt="Profile Image" width="350"/>
+    </td>
+  </tr>
+</table>
+
 
 🌐 **Nayi Disha** — Disaster zone supply chain intelligence
 - Developing **real-time risk calculation engine** with <3s notification latency
