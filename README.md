@@ -1,6 +1,10 @@
 <img src="./banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <div align="center">
+**🚀 Software Development Engineer | Edge AI & Distributed Systems**  
+**⚡ Backend Engineer | Cloud Infrastructure & High-Performance Computing**  
+**🔬 ML Systems Engineer | Real-Time Pipelines & Production AI**
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/amar-singh103/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:prasadamar103@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
