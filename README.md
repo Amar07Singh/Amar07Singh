@@ -67,12 +67,7 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 🎯 **Goal:** Bridge the gap between ML systems and production-grade backend engineering to build infrastructure that scales to millions of users.
 
 ### 📊 Github Stats
-
-![](https://raw.githubusercontent.com/Amar07Singh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Amar07Singh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-![Stats Overview](https://raw.githubusercontent.com/Amar07Singh/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Amar07Singh/github-stats-transparent/output/generated/languages.svg)
+[![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar07Singh)](https://github.com/Amar07Singh/github-readme-stats)
 
 <br>
 
