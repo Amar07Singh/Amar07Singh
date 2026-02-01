@@ -32,22 +32,12 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
       
 ## 🔭 What I'm Currently Working On 
 
-🏥 **MediLockr** — Patient-owned healthcare data exchange
-<table>
-  <tr>
-    <td>
-      <p><strong>Building <b>zero-knowledge E2EE system</b> with client-side encryption and revocable permissions</strong><br>
-      <strong>Implementing <b>hybrid search</b> (BM25 + vector embeddings) with sub-300ms retrieval using Elasticsearch</strong><br>
-      <strong>Designing <b>async FastAPI backend</b> for multi-format document processing with LLM entity extraction</strong></p>
-    </td>
-    <td>
-      <img src="./project1.jpeg" alt="Profile Image" width="350"/>
-    </td>
-  </tr>
-</table>
+🏥 **MediLockr** — Patient-owned healthcare data exchange                          [Live link](https://medi-lockr-a-patient-owned-data-exc.vercel.app/)
+- Building **zero-knowledge E2EE system** with client-side encryption and revocable permissions
+- Implementing **hybrid search** (BM25 + vector embeddings) with sub-300ms retrieval using Elasticsearch
+- Designing **async FastAPI backend** for multi-format document processing with LLM entity extraction
 
-
-🌐 **Nayi Disha** — Disaster zone supply chain intelligence
+🌐 **Nayi Disha** — Disaster zone supply chain intelligence                         [Live link](https://nayi-disha-supply-chain-risk-intell.vercel.app/login)
 - Developing **real-time risk calculation engine** with <3s notification latency
 - Building **predictive ML models** for 72-hour weather forecasts with Redis caching (80-86% accuracy)
 - Creating **route risk algorithms** that reduced routing uncertainty by 40%
@@ -56,8 +46,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 - Exploring **distributed systems patterns** and consensus algorithms
 - Building **high-performance C++ applications** for low-latency scenarios
 - Contributing to open-source projects focused on infrastructure and backend systems
-
-📚 **Competitive Programming:** Maintaining 1500+ rating on Codeforces, solving 250+ problems on LeetCode
 
 ## 🌱 Currently Learning 
 
@@ -89,15 +77,12 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
