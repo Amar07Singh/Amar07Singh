@@ -1,9 +1,9 @@
 <img src="./banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <div align="center">
-<b>Software Development Engineer | Edge AI & Distributed Systems  
-Backend Engineer | Cloud Infrastructure
-ML Systems Engineer | Real-Time Pipelines & Production AI</b>
+<b>Software Development Engineer | Edge AI &  ML Systems Engineer | Backend Engineer | Cloud Infrastructure </b>
+<br>
+<br>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/amar-singh103/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -12,7 +12,7 @@ ML Systems Engineer | Real-Time Pipelines & Production AI</b>
 
 ## 🚀 About Me 
 
-Most people see my resume and think "ML guy." But the truth is: while I love working with cutting-edge AI, **my real passion is the infrastructure that makes it work at scale**.
+While I love working with cutting-edge AI, **my real passion is the infrastructure that makes it work at scale**. I design distributed systems and backend architectures that make advanced machine learning practical at scale. 
 
 **My journey so far:**
 
@@ -29,8 +29,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 **Why SDE roles?** Because the most exciting problems in tech today—whether it's Copilot, M365, or Google Cloud—aren't just about algorithms. They're about building **reliable, scalable infrastructure** that serves hundreds of millions of users. That's the work I want to do.
 
 🎯 **Looking for:** Backend SDE, Infrastructure Engineer, or ML Systems roles where engineering excellence meets real-world impact.
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Amar07Singh.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -68,8 +66,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 - **Database internals:** Understanding query optimization and storage engines
 - **Network programming:** Building efficient client-server architectures
 
-🎯 **Goal:** Bridge the gap between ML systems and production-grade backend engineering to build infrastructure that scales to millions of users.
-
 ### 📊 Github Stats
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
@@ -77,7 +73,6 @@ At **SmartScore**, I built preprocessing pipelines that handled 4,500+ handwritt
 ![](https://raw.githubusercontent.com/Amar07Singh/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
 <br>
 
 ### 🔨 Languages and Tools:
