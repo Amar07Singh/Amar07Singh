@@ -1,12 +1,10 @@
-<div align="center">
-
 <img src="./banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
+<div align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/amar-singh103/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:prasadamar103@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
-
+</p></div>
 
 ## 🚀 About Me 
 
