@@ -42,7 +42,7 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 
 
    <br>
-##🔭 What I'm Currently Working On 
+##🔭What I'm Currently Working On 
 
 <table>
 <tr>
