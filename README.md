@@ -2,7 +2,7 @@
 
 <img src="./banner.png" alt="Amar Singh - Backend Engineer">
 
-### Software Development Engineer | Edge AI &  ML Systems Engineer | Backend Engineer | Cloud Infrastructure 
+### Software Development Engineer | Edge AI &  ML Systems Engineer | Backend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-singh103/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadamar103@gmail.com)
@@ -39,7 +39,9 @@ Built preprocessing pipelines that handled 4,500+ handwritten samples, but the r
 
 ### 🎓 Why SDE Roles?
 Because the most exciting problems in tech today—whether it's Copilot, M365, or Google Cloud—aren't just about algorithms. They're about building **reliable, scalable infrastructure** that serves hundreds of millions of users. That's the work I want to do.
-   
+
+
+   <br>
 ## 🔭 What I'm Currently Working On 
 
 <table>
@@ -77,7 +79,10 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 </tr>
 </table>
 
-### 🧪 Current Focus
+
+   <br>
+   
+## 🧪 Current Focus
 
 🔹 Exploring **distributed systems patterns** and consensus algorithms  
 🔹 Building **high-performance C++ applications** for low-latency scenarios  
@@ -87,7 +92,9 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 ### 🔨 Languages and Tools:
 <div align="center">
 
-### 💻 Languages & Core
+   <br>
+   
+## 💻 Languages & Core
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -132,7 +139,9 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 
 </div>
 
-### 🎯 Core Competencies
+   <br>
+   
+## 🎯 Core Competencies
 <div align="center">
 <table>
 <tr>
@@ -172,7 +181,7 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 
 ---
 
-### 📊 Github Stats
+## 📊 Github Stats
 <div align="center">
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
