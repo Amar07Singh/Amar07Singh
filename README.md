@@ -39,10 +39,10 @@ Built preprocessing pipelines that handled 4,500+ handwritten samples, but the r
 
 ### 🎓 Why SDE Roles?
 Because the most exciting problems in tech today—whether it's Copilot, M365, or Google Cloud—aren't just about algorithms. They're about building **reliable, scalable infrastructure** that serves hundreds of millions of users. That's the work I want to do.
+<br>
 
-
-   <br>
-##🔭What I'm Currently Working On 
+   
+## 🔭What I'm Currently Working On 
 
 <table>
 <tr>
