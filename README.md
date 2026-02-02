@@ -1,7 +1,24 @@
+<div  align="center" style="margin-top: -100px;">
+
+<!-- Terminal-style header with COMPLETE ASCII art -->
+<pre>
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   █████╗ ███╗   ███╗ █████╗ ██████╗     ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗       ║
+║  ██╔══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║       ║
+║  ███████║██╔████╔██║███████║██████╔╝    ███████╗██║██╔██╗ ██║██║  ███╗███████║       ║
+║  ██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║       ║
+║  ██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║       ║
+║  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝       ║
+║                                                                                      ║
+║  > Software Development Engineer | Edge AI & ML Systems Engineer                     ║
+║  > Building scalable System Design for Real-World Applications                       ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
+</div>
 <div align="center">
-
-<img src="./banner.png" alt="Amar Singh - Backend Engineer">
-
+   
 ### Software Development Engineer | Edge AI &  ML Systems Engineer | Backend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-singh103/)
