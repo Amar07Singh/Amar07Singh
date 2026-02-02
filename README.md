@@ -42,7 +42,7 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 
 
    <br>
-## 🔭 What I'm Currently Working On 
+##🔭 What I'm Currently Working On 
 
 <table>
 <tr>
@@ -79,7 +79,6 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 </tr>
 </table>
 
-
    <br>
    
 ## 🧪 Current Focus
@@ -89,12 +88,12 @@ Because the most exciting problems in tech today—whether it's Copilot, M365, o
 🔹 Contributing to **open-source infrastructure** and backend projects  
 🔹 **Competitive Programming:** Maintaining 1500+ CF rating | 250+ LeetCode problems
 
-### 🔨 Languages and Tools:
-<div align="center">
-
    <br>
    
-## 💻 Languages & Core
+## 🔨 Languages and Tools:
+<div align="center">
+
+### 💻 Languages & Core
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
