@@ -12,7 +12,7 @@
 ║  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝       ║
 ║                                                                                      ║
 ║  > Software Development Engineer | Edge AI & ML Systems Engineer                     ║
-║  > Building scalable System Design for Real-World Applications                       ║
+║  > Building Scalable System Design for Real-World Applications                       ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
